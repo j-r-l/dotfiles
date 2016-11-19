@@ -1,0 +1,9 @@
+# CAEN
+Host caen
+    HostName login-course.engin.umich.edu
+    User jiarul
+
+Host gitlab
+    Hostname gitlab.eecs.umich.edu
+    User jiarul
+    IdentityFile ~/.ssh/id_rsa.pub
