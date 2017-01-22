@@ -17,3 +17,5 @@ alias hs='history | grep $1'
 alias la='ls -GFha'
 alias ll='ls -GFahl'
 alias ls='ls -GFh'
+
+klist -s || kinit jiarul
